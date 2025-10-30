@@ -14,7 +14,7 @@ git clone https://github.com/Mylavarapu-Sowmya/WeatherNow-Frontend.git
 
 Clone the Backend
 ```bash 
-"git clone https://github.com/Mylavarapu-Sowmya/WeatherNow-Backend.git"
+git clone https://github.com/Mylavarapu-Sowmya/WeatherNow-Backend.git
 ```
 
 ## ⚙️ Installation & Running
