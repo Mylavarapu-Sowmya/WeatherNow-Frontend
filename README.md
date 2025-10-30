@@ -21,13 +21,13 @@ git clone https://github.com/Mylavarapu-Sowmya/WeatherNow-Backend.git
 
 ##Frontend Setup
 ```bash
-cd frontend
+cd WeatherNow-Frontend
 npm install
 npm start
 ```
 ##Backend Setup
 ```bash
-cd backend
+cd WeatherNow-Backend
 npm install
 node server.js
 ```
